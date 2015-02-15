@@ -1,0 +1,9 @@
+D:\Folder Belajar\PunyaRobin\db_robinfix\db_robinfix\bin\Debug\db_robinfix.dacpac
+D:\Folder Belajar\PunyaRobin\db_robinfix\db_robinfix\bin\Debug\db_robinfix.dll
+D:\Folder Belajar\PunyaRobin\db_robinfix\db_robinfix\bin\Debug\db_robinfix.pdb
+D:\Folder Belajar\PunyaRobin\db_robinfix\db_robinfix\obj\Debug\Model.xml
+D:\Folder Belajar\PunyaRobin\db_robinfix\db_robinfix\obj\Debug\refactor.xml
+D:\Folder Belajar\PunyaRobin\db_robinfix\db_robinfix\obj\Debug\postdeploy.sql
+D:\Folder Belajar\PunyaRobin\db_robinfix\db_robinfix\obj\Debug\predeploy.sql
+D:\Folder Belajar\PunyaRobin\db_robinfix\db_robinfix\obj\Debug\db_robinfix.dll
+D:\Folder Belajar\PunyaRobin\db_robinfix\db_robinfix\obj\Debug\db_robinfix.pdb
