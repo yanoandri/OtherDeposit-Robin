@@ -1,0 +1,24 @@
+C:\Users\drob\Documents\Visual Studio 2012\Projects\OtherDeposit\OtherDeposit\bin\Debug\OtherDeposit.exe.config
+C:\Users\drob\Documents\Visual Studio 2012\Projects\OtherDeposit\OtherDeposit\bin\Debug\OtherDeposit.exe
+C:\Users\drob\Documents\Visual Studio 2012\Projects\OtherDeposit\OtherDeposit\bin\Debug\OtherDeposit.pdb
+C:\Users\drob\Documents\Visual Studio 2012\Projects\OtherDeposit\OtherDeposit\bin\Debug\OtherDeposit.xml
+C:\Users\drob\Documents\Visual Studio 2012\Projects\OtherDeposit\OtherDeposit\obj\Debug\WindowsApplication1.bankreconcile.resources
+C:\Users\drob\Documents\Visual Studio 2012\Projects\OtherDeposit\OtherDeposit\obj\Debug\WindowsApplication1.OtherDeposit.resources
+C:\Users\drob\Documents\Visual Studio 2012\Projects\OtherDeposit\OtherDeposit\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\drob\Documents\Visual Studio 2012\Projects\OtherDeposit\OtherDeposit\obj\Debug\WindowsApplication1.OtherPayment.resources
+C:\Users\drob\Documents\Visual Studio 2012\Projects\OtherDeposit\OtherDeposit\obj\Debug\CashBank.vbproj.GenerateResource.Cache
+C:\Users\drob\Documents\Visual Studio 2012\Projects\OtherDeposit\OtherDeposit\obj\Debug\OtherDeposit.exe
+C:\Users\drob\Documents\Visual Studio 2012\Projects\OtherDeposit\OtherDeposit\obj\Debug\OtherDeposit.xml
+C:\Users\drob\Documents\Visual Studio 2012\Projects\OtherDeposit\OtherDeposit\obj\Debug\OtherDeposit.pdb
+D:\Folder Belajar\PunyaRobin\OtherDeposit\OtherDeposit\bin\Debug\OtherDeposit.exe.config
+D:\Folder Belajar\PunyaRobin\OtherDeposit\OtherDeposit\obj\Debug\OtherDeposit.exe
+D:\Folder Belajar\PunyaRobin\OtherDeposit\OtherDeposit\obj\Debug\OtherDeposit.xml
+D:\Folder Belajar\PunyaRobin\OtherDeposit\OtherDeposit\obj\Debug\OtherDeposit.pdb
+D:\Folder Belajar\PunyaRobin\OtherDeposit\OtherDeposit\bin\Debug\OtherDeposit.exe
+D:\Folder Belajar\PunyaRobin\OtherDeposit\OtherDeposit\bin\Debug\OtherDeposit.pdb
+D:\Folder Belajar\PunyaRobin\OtherDeposit\OtherDeposit\bin\Debug\OtherDeposit.xml
+D:\Folder Belajar\PunyaRobin\OtherDeposit\OtherDeposit\obj\Debug\WindowsApplication1.bankreconcile.resources
+D:\Folder Belajar\PunyaRobin\OtherDeposit\OtherDeposit\obj\Debug\WindowsApplication1.OtherDeposit.resources
+D:\Folder Belajar\PunyaRobin\OtherDeposit\OtherDeposit\obj\Debug\WindowsApplication1.Resources.resources
+D:\Folder Belajar\PunyaRobin\OtherDeposit\OtherDeposit\obj\Debug\WindowsApplication1.OtherPayment.resources
+D:\Folder Belajar\PunyaRobin\OtherDeposit\OtherDeposit\obj\Debug\CashBank.vbproj.GenerateResource.Cache

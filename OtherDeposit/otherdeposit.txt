@@ -1,0 +1,13 @@
+tabel reconcile baru:
+id bank
+nama bank
+no voucher
+deposit dr
+withdrawal cr
+checkbox column
+
+tabel deposit adjusted
+tambah kolumn keterangan DEPOSIT
+
+tabel payment adjusted
+tambah kolumn keterangan WITHDRAWAL

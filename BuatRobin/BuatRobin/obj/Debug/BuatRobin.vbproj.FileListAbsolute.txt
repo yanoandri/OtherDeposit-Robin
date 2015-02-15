@@ -1,0 +1,10 @@
+D:\Folder Belajar\PunyaRobin\BuatRobin\BuatRobin\bin\Debug\BuatRobin.exe.config
+D:\Folder Belajar\PunyaRobin\BuatRobin\BuatRobin\bin\Debug\BuatRobin.exe
+D:\Folder Belajar\PunyaRobin\BuatRobin\BuatRobin\bin\Debug\BuatRobin.pdb
+D:\Folder Belajar\PunyaRobin\BuatRobin\BuatRobin\bin\Debug\BuatRobin.xml
+D:\Folder Belajar\PunyaRobin\BuatRobin\BuatRobin\obj\Debug\BuatRobin.FormDeposit.resources
+D:\Folder Belajar\PunyaRobin\BuatRobin\BuatRobin\obj\Debug\BuatRobin.Resources.resources
+D:\Folder Belajar\PunyaRobin\BuatRobin\BuatRobin\obj\Debug\BuatRobin.vbproj.GenerateResource.Cache
+D:\Folder Belajar\PunyaRobin\BuatRobin\BuatRobin\obj\Debug\BuatRobin.exe
+D:\Folder Belajar\PunyaRobin\BuatRobin\BuatRobin\obj\Debug\BuatRobin.xml
+D:\Folder Belajar\PunyaRobin\BuatRobin\BuatRobin\obj\Debug\BuatRobin.pdb
